@@ -12,7 +12,6 @@ public class PurrfectCharacterReplacer {
     private static final Color CAT_PINK = new Color(255, 153, 204);
     
     public static void main(String[] args) {
-        // Create main frame
         JFrame frame = new JFrame("Purr-fect Character Replacer");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(800, 600);
