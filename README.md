@@ -55,6 +55,6 @@ And, most importantly, it includes cats!
    - The program will open a GUI that allows you to input a string of characters and select a specific character to replace with another of your choice.
    - Most importantly, enjoy the cat-themed interface!
 
-### Note
+### Note:
 
 This is just a simple Java program that I made for my school activity. We were instructed to create a program that replace a specificed character with another character.
