@@ -57,4 +57,4 @@ And, most importantly, it includes cats!
 
 ### Note:
 
-This is just a simple Java program that I made for my school activity. We were instructed to create a program that replace a specificed character with another character.
+This is just a simple Java program that I made for my school activity. We were instructed to create a program that replace a specified character with another character.
